@@ -1,19 +1,19 @@
 ---
 title: "Báo cáo thực tập"
-date: 2024-01-01
+date: 2026-21-12
 weight: 1
 chapter: false
 ---
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Văn A
+&emsp; **Họ và tên:** Cao Thái Khang
 
-&emsp; **Số điện thoại:** 0989888999
+&emsp; **Số điện thoại:** 0919779381
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** cvcaothaikhang29@gmail.com
 
-&emsp; **Trường:** Đại học Sư phạm Kỹ thuật TP.HCM
+&emsp; **Trường:** Đại học Quản lí và Công nghệ TP.HCM
 
 &emsp; **Ngành:** Công nghệ thông tin
 
@@ -23,9 +23,9 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Thời gian thực tập:** Từ ngày 12/08/2025 đến ngày 12/11/2025
+&emsp; **Thời gian thực tập:** Từ ngày 19/10/2026 đến ngày 21/12/2026
 
-![Ảnh đại diện của bạn](/images/avatar.png)
+![Ảnh đại diện của bạn](/images/avatar.jpeg)  
 
 
 
